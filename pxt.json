@@ -1,0 +1,31 @@
+{
+    "name": "crank:bit_0.1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-blehid - Copy": "github:bsiever/microbit-pxt-blehid#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v7.0.57",
+        "tag": "v7.0.57",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/1a9e10ee33883477990f6bc7451dae38318586e3",
+        "target": "7.1.23",
+        "pxt": "11.1.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
